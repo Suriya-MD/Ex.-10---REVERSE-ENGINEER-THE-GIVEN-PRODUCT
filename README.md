@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.No:4   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -32,11 +32,14 @@
 
 ## Input:
 
+![image](https://github.com/Suriya-MD/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147120571/ba86c1b9-7a7b-4432-befa-a8b1c9d61f4a)
+
 ### Output:
 
+![image](https://github.com/Suriya-MD/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147120571/78f96799-9893-471b-aa60-f7472482b32e)
 
-### Name:
-### Register Number:
+### Name: SURIYA M
+### Register Number: 212223110055
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
